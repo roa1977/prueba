@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<rows><page>1</page><total>1</total><records>1</records>
+
+<row>
+  <cell>20</cell>
+  <cell>Modulo Busquedas</cell>
+  <cell></cell>
+  <cell>0</cell>
+  <cell>20</cell>
+  <cell>40</cell>
+  <cell>false</cell>
+  <cell>false</cell>
+</row>
+
+<row>
+  <cell>21</cell>
+  <cell>Fechas</cell>
+  <cell>usuarios.html</cell>
+  <cell>1</cell>
+  <cell>21</cell>
+  <cell>22</cell>
+  <cell>true</cell>
+  <cell>true</cell>
+</row>
+<row>
+  <cell>23</cell>
+  <cell>Fechas</cell>
+  <cell>prueba.html</cell>
+  <cell>1</cell>
+  <cell>23</cell>
+  <cell>24</cell>
+  <cell>true</cell>
+  <cell>true</cell>
+</row>
+
+<row>
+  <cell>25</cell>
+  <cell>Fechas</cell>
+  <cell>documentos.html</cell>
+  <cell>1</cell>
+  <cell>25</cell>
+  <cell>26</cell>
+  <cell>true</cell>
+  <cell>true</cell>
+</row>
+
+</rows>
